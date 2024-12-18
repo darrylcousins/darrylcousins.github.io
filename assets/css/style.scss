@@ -1,8 +1,8 @@
 @import "{{ site.theme }}";
 
-section #title h1 {
+section > #title > h1 {
   text-align: left;
 }
-section #title p {
+section > #title > p {
   text-align: left;
 }
